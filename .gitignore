@@ -1,0 +1,6 @@
+'application/cache' 
+*.dll
+*.obj
+bin/
+obj/
+.vs/
